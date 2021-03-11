@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "cli-injection-error-demo": {
+      "commandName": "Project",
+      "commandLineArgs": "guid",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
